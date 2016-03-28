@@ -3,3 +3,5 @@ This Python project allows a user to select individual clauses for insertion int
 
 This project will be starting with the python-docx module.
 See python-docx.readthedocs.org
+Also see issue #33 of the python-docx github page. https://github.com/python-openxml/python-docx/issues/33
+
